@@ -1,0 +1,2 @@
+FROM python:3.8
+EXPOSE 8800-9999
