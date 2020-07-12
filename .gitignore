@@ -123,3 +123,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Inputs and outputs
+all_images/
+output/
+output_dbscan/
+output_edges/
+output_kmeans.7z
+road-unsupervised.7z
